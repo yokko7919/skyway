@@ -36,11 +36,11 @@ video {
 }
 
 .p2p-media .remote-stream {
-  width: 5000%;
+  width: 50%;
 }
 
 .p2p-media .local-stream {
-  width: 3000%;
+  width: 30%;
 }
 
 /* p2p-data styles */
