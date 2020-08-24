@@ -61,8 +61,8 @@ video {
 .room {
   display: grid;
   grid-template-columns: 1% 1% 1%;
-  gap: 8px;
-  margin: 0 8px;
+  gap: 30px;
+  margin: 30 8px;
 }
 
 .room .remote-streams {
